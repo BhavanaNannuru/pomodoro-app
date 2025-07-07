@@ -58,7 +58,7 @@ While the current version replicates the core functionality, I plan to **enhance
 
 ## 👤 Author
 
-**Bhavana Naidu**  
+**Bhavana Nannuru**  
 Aspiring cybersecurity and software development professional  
 Passionate about building purposeful projects while continuously learning.
 
