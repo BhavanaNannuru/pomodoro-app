@@ -7,7 +7,7 @@ This application implements the popular **Pomodoro Technique** — alternating f
 
 ## 🎯 Objective
 
-This project was initially created as part of my learning journey by following a tutorial by [@CodingIsFun](https://www.youtube.com/watch?v=uUWG5cm2Los).  
+This project was initially created as part of my learning journey by following a tutorial by [Create a Pomodoro Timer App in Python! | Tutorial by Alina Chudnova](https://www.youtube.com/watch?v=uUWG5cm2Los).  
 While the current version replicates the core functionality, I plan to **enhance and customize** it further with additional productivity features and UI improvements.
 
 ---
