@@ -15,8 +15,8 @@ While the current version replicates the core functionality, I plan to **enhance
 ## 🚀 Current Features
 
 - 25-minute focused work sessions
-- 5-minute short breaks between sessions
-- 15-minute long break after every 4 Pomodoros
+- 10-minute short breaks between sessions
+- 30-minute long break after every 4 Pomodoros
 - Pop-up notifications to guide session transitions
 - Dark mode UI using `ttkbootstrap`
 - Start and Stop button controls
