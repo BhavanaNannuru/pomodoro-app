@@ -14,12 +14,13 @@ While the current version replicates the core functionality, I plan to **enhance
 
 ## 🚀 Current Features
 
-- 25-minute focused work sessions
-- 10-minute short breaks between sessions
-- 30-minute long break after every 4 Pomodoros
-- Pop-up notifications to guide session transitions
-- Dark mode UI using `ttkbootstrap`
-- Start and Stop button controls
+- 🎨 **Modern UI** with a styled timer inside a red circular canvas.
+- ✅ **Start**, **Stop**, and **Reset** buttons styled using `ttkbootstrap`.
+- 🕓 Displays the current countdown timer (work or break).
+- ✅ Tracks **Pomodoros completed** and updates them in real-time.
+- 🔄 Smooth transitions between work sessions and short/long breaks.
+- 🎯 Neatly **centered** window (horizontally) and aligned **top** on screen.
+- 💡 Uses the `cosmo` theme from `ttkbootstrap` for a clean, minimal feel.
 
 ---
 
@@ -47,9 +48,9 @@ While the current version replicates the core functionality, I plan to **enhance
 
 ## 🔧 Planned Enhancements
 
-- [ ] Add a reset button
+- [x] Add a reset button
 - [ ] Include audio alerts for session changes
-- [ ] Display Pomodoro count or a visual tracker
+- [x] Display Pomodoro count or a visual tracker
 - [ ] Enable custom time inputs
 - [ ] Export as a standalone `.exe` or `.app` file
 - [ ] Improve UI/UX with subtle animations and stats
